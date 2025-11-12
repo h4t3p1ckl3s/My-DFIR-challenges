@@ -7,7 +7,7 @@ We detected suspicious activities including unusual process executions, external
 
 The device is isolated. Please investigate:
 
-q1: What initial access technique was used to deploy the malware?
+q1: What initial access technique was used to lure the user to deploy the malware?
 
 a1cfdb54a31f6cb8ca9ed38b0e3dc333
 
