@@ -13,7 +13,7 @@ a1cfdb54a31f6cb8ca9ed38b0e3dc333
 
 q2: What is the exact date and time of initial compromise?
 
-fb294e2278448d0d6c8e2f0c082619a8
+605524c3d3dbd506ed6e21068a4a63da
 
 q3: What is the MITRE ATT&CK ID of the 1st stage downloader?
 
